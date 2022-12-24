@@ -1,0 +1,6 @@
+FOR SERVER :
+     node server.js
+
+FOR CLIENT:
+    npm run start
+    (first check proxy is pkg.json )
