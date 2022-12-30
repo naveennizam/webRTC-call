@@ -4,3 +4,8 @@ FOR SERVER :
 FOR CLIENT:
     npm run start
     (first check proxy is pkg.json )
+    ,
+  "proxy":  "http://localhost:8080",
+
+In Browser : two tab open
+

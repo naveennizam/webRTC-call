@@ -5,7 +5,7 @@ const app = express();
 const io = require("socket.io")({
     path:"/webrtc"
 });
-const port = 3001;
+const port = 8080;
 app.get("/",(req,res)=>{
     res.send("hello world")
 });

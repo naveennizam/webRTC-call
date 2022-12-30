@@ -1,4 +1,4 @@
-//import logo from './logo.svg';
+
 import './App.css';
 import MeetingScreen from './screen/MeetingScreen';
 
@@ -7,6 +7,7 @@ function App() {
     <div className="App">
      
         <MeetingScreen/>
+      
       
     </div>
   );
